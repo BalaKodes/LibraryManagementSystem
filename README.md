@@ -39,3 +39,5 @@ A lightweight Spring Boot REST API for managing users and books in a library. Us
 ## 📌 Conclusion
 
 Built with Spring Boot, Spring Data JPA, and MySQL to provide REST APIs for core library operations.
+
+Future plans include integrating role-based login and UI frontend.
